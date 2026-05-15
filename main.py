@@ -133,5 +133,4 @@ def check_websites():
 
 
 if __name__ == "__main__":
-    send_telegram("✅ Telegram Alert Working Successfully")
     check_websites()
